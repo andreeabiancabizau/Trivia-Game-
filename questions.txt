@@ -1,0 +1,30 @@
+1|What does LIFO stand for?|Last In First Out|Loop In Function Out|Last Input Fast Output|Long Interval Fixed Order|1|
+1|What does CPU stand for?|Central Processing Unit|Core Programming Utility|Computer Personal Unit|Central Personal Unit|1|
+1|What is the capital of Romania?|Bucharest|Cluj|Timisoara|Iasi|1|
+1|What is the longest river in Europe?|Danube|Volga|Rhine|Thames|2|
+1|What part of the plant does photosynthesis?|Leaf|Root|Stem|Flower|1|
+1|How many days are in a leap year?|365|366|364|367|2|
+1|How many continents are there?|5|6|7|8|3|
+1|In which year did Romania join the European Union?|2005|2006|2007|2008|3|
+1|What do bees produce?|Honey|Milk|Butter|Sugar|1|
+1|How many days are in a week?|5|6|7|8|3|
+2|How many bones are in the human body?|204|206|208|210|2|
+2|What country invented sushi?|China|Japan|Korea|Thailand|2|
+2|Who discovered insulin?|Banting and Best|Pasteur|Einstein|Curie|1|
+2|What is the rarest blood type in humans?|O+|AB-|B-|A-|2|
+2|What is the chemical symbol for gold?|Au|Ag|Pb|Fe|1|
+2|Which planet has the most moons?|Mars|Saturn|Jupiter|Uranus|2|
+2|What is the first European city with electric streetlights?|London|Paris|Timisoara|Berlin|3|
+2|What was the first Disney movie?|Snow White|Cinderella|Pinocchio|Bambi|1|
+2|What is the largest desert in the world?|Sahara|Gobi|Antarctica|Kalahari|3|
+2|How many ghosts chase Pac-Man at the start of each game?|2|3|4|5|3|
+3|Who founded the Olympic games?|Greeks|Romans|Persians|Egyptians|1|
+3|Which musical features the songs of the band 'Queen'?|Mamma Mia|We Will Rock You|Rock of Ages|Bohemian Rhapsody|2|
+3|Which country does NOT have a Mediterranean coastline?|Spain|France|Portugal|Italy|3|
+3|In which country was Che Guevara born?|Argentina|Cuba|Mexico|Venezuela|1|
+3|Alexander Graham Bell was born in which capital city?|London|Edinburgh|Washington|Ottawa|2|
+3|What is the most viewed TV show of all time?|Friends|Game of Thrones|M*A*S*H|Breaking Bad|3|
+3|What is the name of the algorithm used to find the shortest path?|Dijkstra|A*|Bellman-Ford|Floyd-Warshall|1|
+3|What element is the lightest noble gas?|Neon|Argon|Helium|Xenon|3|
+3|What is the formula for the force of friction?|F = ma|F = μN|F = mg|F = mv|2|
+3|What is the formula for the volume of a sphere?|4/3πr³|πr²h|2πr|1/3πr²h|1|
